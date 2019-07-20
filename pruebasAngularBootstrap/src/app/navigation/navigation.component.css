@@ -1,0 +1,17 @@
+.toolbar-bg-color{
+    background-color: #1A1A1D;
+}
+
+.toolbar-title-style{
+    color: #950740;
+    border-color: transparent;
+    font-family: fantasy;
+    font-size: 130%;
+    padding: 1%;
+}
+
+.toolbar-title-logo{
+    height: 10%;
+    width: 10%;
+    padding: 1%;
+}
